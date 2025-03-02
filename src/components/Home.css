@@ -1,0 +1,10 @@
+.main{
+
+    height: 200vh;
+    width: 100vw;
+    background-image: url('../assets/shyamajustd.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px 0px;
+
+    }
